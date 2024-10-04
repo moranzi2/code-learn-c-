@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\e学习\c-language-learning\24.9.29\24.9.29\test.cpp(57,3): warning C4091: “”: 没有声明变量时忽略“A”的左侧
+  24.9.29.vcxproj -> C:\e学习\c-language-learning\24.9.29\x64\Debug\24.9.29.exe
