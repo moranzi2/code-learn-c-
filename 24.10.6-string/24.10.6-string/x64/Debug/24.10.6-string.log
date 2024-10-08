@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\e学习\c-language-learning\24.10.6-string\24.10.6-string\test.cpp(113,8): warning C4305: “参数”: 从“int”到“_Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+C:\e学习\c-language-learning\24.10.6-string\24.10.6-string\test.cpp(113,8): warning C4309: “参数”: 截断常量值
+  24.10.6-string.vcxproj -> C:\e学习\c-language-learning\24.10.6-string\x64\Debug\24.10.6-string.exe
